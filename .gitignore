@@ -14,3 +14,5 @@
 # Maven
 log/
 target/
+.vscode/java-formatter.xml
+.vscode/settings.json
